@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_HowTo_CreateViewFilters - Command 1</Text>
+    <Description>Some description for RAA_HowTo_CreateViewFilters</Description>
+    <Assembly>RAA_HowTo_CreateViewFilters.dll</Assembly>
+    <FullClassName>RAA_HowTo_CreateViewFilters.Command1</FullClassName>
+    <ClientId>951db8c6-733f-4934-8189-eae77fe14d49</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_HowTo_CreateViewFilters - Command 2</Text>
+    <Description>Some description for RAA_HowTo_CreateViewFilters</Description>
+    <Assembly>RAA_HowTo_CreateViewFilters.dll</Assembly>
+    <FullClassName>RAA_HowTo_CreateViewFilters.Command2</FullClassName>
+    <ClientId>7ed8219c-3351-4254-b317-74f2473244c7</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAA_HowTo_CreateViewFilters</Name>
+    <Assembly>RAA_HowTo_CreateViewFilters.dll</Assembly>
+    <FullClassName>RAA_HowTo_CreateViewFilters.App</FullClassName>
+    <ClientId>f8159bba-3a6e-431b-8d2e-1cc7eed9e22e</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
